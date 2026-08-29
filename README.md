@@ -18,4 +18,6 @@
 
 * **Anatolia UNO R1 (ATmega328P):** Serinin temel amiral gemisi. Karmaşık prototipleme süreçleri, sensör ağları ve geniş G/Ç (GPIO) kapasitesi gerektiren standart projeler için geliştirilmiş çok yönlü ana geliştirme kartı.
 * **Anatolia Pro Mini (ATtiny85):** Düşük güç tüketimi ve alan kısıtlaması olan gömülü projeler ile özel PCB tasarımlarına doğrudan entegre edilmek için ideal, ultra kompakt geliştirme modülü.
-* **Anatolia Micro (ATtiny85):** Serinin en küçük üyesi. Giyilebilir teknolojiler, minyatür sistemler ve doğrudan USB programlama gerektiren hızlı pratik çözümler için optimize edilmiş mikro boyutlu kart.
+* **Anatolia Micro (ATtiny85):** Giyilebilir teknolojiler, minyatür sistemler ve doğrudan USB programlama gerektiren hızlı pratik çözümler için optimize edilmiş mikro boyutlu kart.
+* **Anatolia Lite (ATtiny44A):** Serinin en küçük üyesi. Micro USB. Arduino İDE uyumlu.
+
