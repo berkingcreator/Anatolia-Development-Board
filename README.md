@@ -1,5 +1,10 @@
 # Anatolia Geliştirme Kart Serisi
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/berkingcreator/Anatolia-Development-Board/main/Anatolia-Uno/uno-front.png" width="45%" alt="Anatolia Uno Ön Yüz">
+  <img src="https://raw.githubusercontent.com/berkingcreator/Anatolia-Development-Board/main/Anatolia-Uno/uno-back.png" width="45%" alt="Anatolia Uno Arka Yüz">
+</p>
+
 **Anatolia Geliştirme Kart Serisi**, açık kaynaklı mikrodenetleyici mimarilerini ve AVR (ATmega ve ATtiny) çekirdeklerini temel alan, yerli ve modüler bir geliştirme donanımı ailesidir. Düşük güç tüketimi gerektiren gömülü sistemlerden lojik devre simülasyonlarına, giyilebilir teknolojilerden hafif otonom modüllere kadar geniş bir yelpazede esnek çözümler sunar.
 
 ---
@@ -20,4 +25,3 @@
 * **Anatolia Pro Mini (ATtiny85):** Düşük güç tüketimi ve alan kısıtlaması olan gömülü projeler ile özel PCB tasarımlarına doğrudan entegre edilmek için ideal, ultra kompakt geliştirme modülü.
 * **Anatolia Micro (ATtiny85):** Giyilebilir teknolojiler, minyatür sistemler ve doğrudan USB programlama gerektiren hızlı pratik çözümler için optimize edilmiş mikro boyutlu kart.
 * **Anatolia Lite (ATtiny44A):** Serinin en küçük üyesi. Micro USB. Arduino İDE uyumlu.
-
