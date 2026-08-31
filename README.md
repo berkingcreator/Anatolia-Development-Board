@@ -25,3 +25,4 @@
 * **Anatolia Pro Mini (ATtiny85):** Düşük güç tüketimi ve alan kısıtlaması olan gömülü projeler ile özel PCB tasarımlarına doğrudan entegre edilmek için ideal, ultra kompakt geliştirme modülü.
 * **Anatolia Micro (ATtiny85):** Giyilebilir teknolojiler, minyatür sistemler ve doğrudan USB programlama gerektiren hızlı pratik çözümler için optimize edilmiş mikro boyutlu kart.
 * **Anatolia Lite (ATtiny44A):** Serinin en küçük üyesi. Micro USB. Arduino İDE uyumlu.
+* **Anatolia Nano (ATtiny 2313):** Nano boyutlarında tam güç!.
