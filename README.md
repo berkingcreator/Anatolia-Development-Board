@@ -27,4 +27,4 @@
 * **Anatolia Micro (ATtiny85):** Giyilebilir teknolojiler, minyatür sistemler ve doğrudan USB programlama gerektiren hızlı pratik çözümler için optimize edilmiş mikro boyutlu kart.
 * **Anatolia Lite (ATtiny44A):** Serinin en küçük üyesi. Micro USB. Arduino İDE uyumlu.
 * **Anatolia Nano (ATtiny2313A):** Nano boyutlarında tam güç!
-* * **Anatolia Nano R2 (ATmega328P):** Anatolia Uno'nun gücü küçük bir kartta! Küçük projeler için ideal.
+*  **Anatolia Micro R2 (ATmega328P):** Anatolia Uno'nun gücü küçük bir kartta! Küçük projeler için ideal.
